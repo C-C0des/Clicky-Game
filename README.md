@@ -1,1 +1,3 @@
-# Clicky Game
+## Clicky Game
+
+React Assignment
